@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Cá cảnh OAR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Trang chính</string>
+    <string name="nav_fishes">Cá cảnh</string>
+    <string name="nav_aquariums">Bể cá</string>
+    <string name="nav_decorates">Trang trí</string>
+    <string name="nav_irrigation_trees">Cây thủy sinh</string>
+    <string name="nav_machines">Máy móc - Phụ kiện</string>
+    <string name="nav_medicines">Thuốc</string>
+    <string name="nav_foods">Thức ăn</string>
+    <string name="nav_about_us">Thông tin chúng tôi</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_fragment_titles">
+        <item>Trang chính</item>
+        <item>Cá cảnh</item>
+        <item>Bể cá</item>
+        <item>Trang trí</item>
+        <item>Cây thủy sinh</item>
+        <item>Máy móc - Phụ kiện</item>
+        <item>Thuốc</item>
+        <item>Thức ăn</item>
+        <item>Thông tin</item>
+    </string-array>
+
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string name="delete">DELETE</string>
+    <string name="title_activity_info">Map</string>
+
+</resources>

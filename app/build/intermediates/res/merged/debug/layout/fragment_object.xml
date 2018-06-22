@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/notification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="100dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/item_name"
+            android:text="Bạn vui lòng kiểm tra kết nối Internet"
+            android:textSize="20sp" />
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_gravity="center"
+            android:layout_marginBottom="100dp"
+            android:indeterminateDrawable="@drawable/custom_processbar"
+            android:id="@+id/progressbar_loading"
+            android:layout_width="36dp"
+            android:layout_height="36dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </android.support.v7.widget.RecyclerView>
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

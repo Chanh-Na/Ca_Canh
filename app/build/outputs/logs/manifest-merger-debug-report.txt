@@ -1,0 +1,315 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:15:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\6c2dbfc598c103422e1ce37f218c6e96c85bddc1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\824943e756e8df1136eba5f1f3ef82dfcb8e40d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\f501a7535f95df3108420cf039557c6b0dd8d012\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\9ed2385d2601069797b4559cfe46b65bc24cc7eb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\361e46a6b87195cd2a72b2bf1bb617539ca936f9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\b46fa42226713efbd47a896e9e53aa9fd3b56e45\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\ASUS\.android\build-cache\862db0f231c0624edfe016ea2344904244f1fbab\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-ads:11.0.4] C:\Users\ASUS\.android\build-cache\8b54d90fa706878456961b6bf73ad4c0a68ea246\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\ASUS\.android\build-cache\a7b11f392ffefe1e39561e0204e9a19dd2625a2d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\ASUS\.android\build-cache\82483bb9f21f3edac71b1afa577fa22a90338902\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\ASUS\.android\build-cache\2642f31a3e6ba531639c3b9f4ceaa5f536a91150\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\ASUS\.android\build-cache\597ca8be36eabd91d0e317a0a9af1835ef2cb928\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\ASUS\.android\build-cache\7abc4948c4d66cc8547ee9cfe16fa07d286acf69\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\914961f91b502c76f252a06a3c0f52ff3ed84ab9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\e0ecdad91491ca8c4c7820e42af6b73507cfa67f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\eb23ae429027c9c6b958ca177a24ab62de26d42d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\8d8f632d869e6a6eea756cb725c1a5f446ae5eee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\6ba67967542ad031719d636f2bdf0558682a383b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\486f7cb14f5d4d0fc5e5f46bbeb3cff2d373d884\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:20:9-48
+	android:allowBackup
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:18:9-43
+	android:largeHeap
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:16:9-33
+	android:theme
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.example.letrongtin.menunavigation.activity.MainActivity
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:23:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.letrongtin.menunavigation.activity.CartActivity
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:30:9-59
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:30:19-56
+activity#com.example.letrongtin.menunavigation.activity.PayActivity
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:31:19-55
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:40:9-42:55
+	android:value
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:41:13-58
+activity#com.example.letrongtin.menunavigation.activity.InfoActivity
+ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:44:9-46:68
+	android:label
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml:45:13-50
+uses-sdk
+INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\6c2dbfc598c103422e1ce37f218c6e96c85bddc1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\824943e756e8df1136eba5f1f3ef82dfcb8e40d7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\f501a7535f95df3108420cf039557c6b0dd8d012\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\9ed2385d2601069797b4559cfe46b65bc24cc7eb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\361e46a6b87195cd2a72b2bf1bb617539ca936f9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\e9691c58267ff71653aba0fd76903d91c32af050\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\b46fa42226713efbd47a896e9e53aa9fd3b56e45\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\ASUS\.android\build-cache\862db0f231c0624edfe016ea2344904244f1fbab\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\ASUS\.android\build-cache\9c247ef7b9ec718964074a2f8cecae9f57e1ea78\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\ASUS\.android\build-cache\245a8fbf69df16a9a90708014762a92bf3ee0d9f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.firebase:firebase-ads:11.0.4] C:\Users\ASUS\.android\build-cache\8b54d90fa706878456961b6bf73ad4c0a68ea246\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\ASUS\.android\build-cache\68b52b6813f4c29496321cd50b3c91271592ddd5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\ASUS\.android\build-cache\a7b11f392ffefe1e39561e0204e9a19dd2625a2d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\ASUS\.android\build-cache\82483bb9f21f3edac71b1afa577fa22a90338902\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\ASUS\.android\build-cache\2642f31a3e6ba531639c3b9f4ceaa5f536a91150\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\ASUS\.android\build-cache\597ca8be36eabd91d0e317a0a9af1835ef2cb928\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\ASUS\.android\build-cache\7abc4948c4d66cc8547ee9cfe16fa07d286acf69\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\914961f91b502c76f252a06a3c0f52ff3ed84ab9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\e0ecdad91491ca8c4c7820e42af6b73507cfa67f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\eb23ae429027c9c6b958ca177a24ab62de26d42d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\8d8f632d869e6a6eea756cb725c1a5f446ae5eee\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\6ba67967542ad031719d636f2bdf0558682a383b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\486f7cb14f5d4d0fc5e5f46bbeb3cff2d373d884\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidHive\MenuNavigation\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\824943e756e8df1136eba5f1f3ef82dfcb8e40d7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\f501a7535f95df3108420cf039557c6b0dd8d012\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\9ed2385d2601069797b4559cfe46b65bc24cc7eb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\361e46a6b87195cd2a72b2bf1bb617539ca936f9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\e9691c58267ff71653aba0fd76903d91c32af050\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\b46fa42226713efbd47a896e9e53aa9fd3b56e45\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\914961f91b502c76f252a06a3c0f52ff3ed84ab9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\e0ecdad91491ca8c4c7820e42af6b73507cfa67f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\eb23ae429027c9c6b958ca177a24ab62de26d42d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\8d8f632d869e6a6eea756cb725c1a5f446ae5eee\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\6ba67967542ad031719d636f2bdf0558682a383b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\486f7cb14f5d4d0fc5e5f46bbeb3cff2d373d884\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\AndroidManifest.xml:20:20-65

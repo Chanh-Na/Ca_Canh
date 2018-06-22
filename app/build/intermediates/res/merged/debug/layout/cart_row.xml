@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/view_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_row_background">
+
+        <ImageView
+            android:id="@+id/delete_icon"
+            android:layout_width="@dimen/ic_delete"
+            android:layout_height="@dimen/ic_delete"
+            android:layout_marginLeft="@dimen/padd_10"
+            android:src="@drawable/ic_bin"
+            android:layout_centerVertical="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/padd_10"
+            android:text="@string/delete"
+            android:textColor="#fff"
+            android:textSize="13sp"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/delete_icon" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/view_foreground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/white"
+        android:padding="@dimen/padd_10">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/image"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:text="name"
+            android:textColor="#4c4c4c"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_toEndOf="@+id/image"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:text="0"
+            android:textColor="#fc3535"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/btnPlus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/btnValues"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/ic_plus"
+            android:focusable="false"
+            android:textColor="#eff5f2f2"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnMinus"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/price"
+            android:layout_marginTop="14dp"
+            android:layout_toLeftOf="@id/btnValues"
+            android:background="@drawable/ic_minus"
+            android:focusable="false"
+            android:textColor="#eff5f2f2"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnValues"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/btnMinus"
+            android:layout_toLeftOf="@+id/btnPlus"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:focusable="false"
+            android:text="1"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+</FrameLayout>

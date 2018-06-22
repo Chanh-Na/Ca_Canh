@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\AndroidHive\\MenuNavigation\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\AndroidHive\\MenuNavigation\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

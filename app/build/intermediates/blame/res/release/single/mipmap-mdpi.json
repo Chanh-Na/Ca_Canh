@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidHive\\MenuNavigation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\AndroidHive\\MenuNavigation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

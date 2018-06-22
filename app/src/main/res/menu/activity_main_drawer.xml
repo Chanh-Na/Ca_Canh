@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_fishes"
+            android:icon="@drawable/ic_fish"
+            android:title="@string/nav_fishes" />
+        <item
+            android:id="@+id/nav_aquariums"
+            android:icon="@drawable/ic_aquarium"
+            android:title="@string/nav_aquariums" />
+
+        <item
+            android:id="@+id/nav_decorates"
+            android:icon="@drawable/ic_palace"
+            android:title="@string/nav_decorates" />
+
+        <item
+            android:id="@+id/nav_irrigation_trees"
+            android:icon="@drawable/ic_irrigation_tree"
+            android:title="@string/nav_irrigation_trees" />
+
+        <item
+            android:id="@+id/nav_machines"
+            android:icon="@drawable/ic_purifier"
+            android:title="@string/nav_machines" />
+
+        <item
+            android:id="@+id/nav_medicines"
+            android:icon="@drawable/ic_medicine"
+            android:title="@string/nav_medicines" />
+
+
+        <item
+            android:id="@+id/nav_foods"
+            android:icon="@drawable/ic_bottle"
+            android:title="@string/nav_foods" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_info"
+            android:title="@string/nav_about_us" />
+
+    </group>
+
+</menu>

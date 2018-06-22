@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidHive\\MenuNavigation\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\c1a6544341744af45d5577b152101133a0da93ad\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]

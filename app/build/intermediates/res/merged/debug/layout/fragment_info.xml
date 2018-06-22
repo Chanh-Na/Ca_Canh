@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginTop="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Lê Trọng Tín \nHuỳnh Việt Tiến"
+        android:maxLines="2"
+        android:lines="2"
+        android:paddingLeft="10dp"
+        android:drawableLeft="@drawable/ic_user"
+        android:drawableTint="#f1b40e"
+        android:textSize="15sp"
+        android:gravity="center_vertical"
+        android:drawablePadding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/item_name"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:textSize="15sp"
+        android:text="15520893@gm.uit.edu.vn \n15520877@gm.uit.edu.vn"
+        android:paddingLeft="10dp"
+        android:drawablePadding="10dp"
+        android:drawableLeft="@drawable/ic_email"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/item_name"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:drawableLeft="@drawable/ic_phone"
+        android:drawablePadding="10dp"
+        android:drawableTint="#0d9b0f"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:lines="2"
+        android:text="0168 843 4497 \n098 541 3340"
+        android:textColor="@color/item_name"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="15"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="15sp"
+            android:drawableLeft="@drawable/ic_location"
+            android:paddingLeft="10dp"
+            android:drawablePadding="10dp"
+            android:textColor="@color/item_name"
+            android:gravity="center_vertical"
+            android:drawableTint="@color/description"
+            android:text="Đại học Công nghệ thông tin - UIT\nKhu phố 6, Phường Linh Trung, Quận Thủ Đức, Hồ Chí Minh"
+            android:layout_weight="13"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btnMap"
+            android:textColor="#ffff"
+            android:background="@drawable/custom_button"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="20dp"
+            android:layout_weight="2"
+            android:text="Xem"
+            android:textSize="11sp" />
+    </LinearLayout>
+
+</LinearLayout>

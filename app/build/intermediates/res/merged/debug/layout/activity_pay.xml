@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_row_background"
+    tools:context="com.example.letrongtin.menunavigation.activity.PayActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/cardview_light_background"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#f12a2a"
+            android:text="Thông tin khách hàng"
+            android:textSize="30sp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <EditText
+                android:id="@+id/inputName"
+                android:paddingLeft="10dp"
+                android:drawableLeft="@drawable/ic_user"
+                android:drawablePadding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#2b2828"
+                android:hint="Nhập họ tên" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <EditText
+                android:id="@+id/inputEmail"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="10dp"
+                android:drawablePadding="10dp"
+                android:drawableLeft="@drawable/ic_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#2b2828"
+                android:hint="Nhập email" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <EditText
+                android:id="@+id/inputPhoneNumber"
+                android:inputType="phone"
+                android:paddingLeft="10dp"
+                android:drawablePadding="10dp"
+                android:drawableLeft="@drawable/ic_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#2b2828"
+                android:hint="Nhập số điện thoại" />
+        </android.support.design.widget.TextInputLayout>
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btnConfirm"
+                android:text="Xác nhận"
+                android:background="#de399ad2"
+                android:textColor="#eff5f2f2"
+                android:layout_marginRight="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/btnBack"
+                android:text="Trở về"
+                android:textColor="#eff5f2f2"
+                android:background="#de399ad2"
+                android:layout_marginLeft="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

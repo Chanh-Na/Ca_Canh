@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-2498644322314522/2981317020">
+    </com.google.android.gms.ads.AdView>
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/notification"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_marginTop="30dp"
+                        android:textColor="@color/item_name"
+                        android:text="Bạn vui lòng kiểm tra kết nối Internet"
+                        android:textSize="20sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_home"
+                    android:orientation="vertical"
+                    android:clipToPadding="false"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ViewFlipper
+                        android:id="@+id/viewFlipper"
+                        android:layout_width="match_parent"
+                        android:layout_height="180dp">
+                    </ViewFlipper>
+
+                    <fragment
+                        android:id="@+id/fragment_fish_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.FishesAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <fragment
+                        android:id="@+id/fragment_aquarium_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.AquariumAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <fragment
+                        android:id="@+id/fragment_decorate_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.DecoratesAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <fragment
+                        android:id="@+id/fragment_irrigation_tree_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.IrrigationTreesAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <fragment
+                        android:id="@+id/fragment_machine_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.MachinesAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <fragment
+                        android:id="@+id/fragment_medicine_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.MedicinesAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <fragment
+                        android:id="@+id/fragment_food_ad"
+                        android:name="com.example.letrongtin.menunavigation.fragment.FoodsAdFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>

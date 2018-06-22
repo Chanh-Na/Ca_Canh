@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\ed0ca1f92b68a4bc11c56526999f88f42c72319d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_d5a215f3cd776d5ed24b10e118b455cfa93b7637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\9c247ef7b9ec718964074a2f8cecae9f57e1ea78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_1d5a4d064ab00a2b93dce989f42e7ee68d81773d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f4e7307f0f9f541fed7ac53fecb65fae55998e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\862db0f231c0624edfe016ea2344904244f1fbab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_dbf17da1539922eb4f177ffe3fae620552db6f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\e9691c58267ff71653aba0fd76903d91c32af050\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_7c955db4b23bdf71be90f388a4f76e2b8e1b87bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\b46fa42226713efbd47a896e9e53aa9fd3b56e45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_59cf86bc8a33f3f548d558894a50d96a8a31d571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\3274760f8aab539830f9b5a5e2a114d03f4edeea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_5df080c0506a18bc709188658a2523f017bfc17b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\a7b11f392ffefe1e39561e0204e9a19dd2625a2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_68c470685abdf6a5446e0ddec69dbc701ac4b2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\66f7821a2ce86e8fc13d7377a5099745d00403a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_933ae3a6078af1b587cf21cdcf58b4dd727ef92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\358959a318a1441aa65bc894453bdc9121467a54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_a8a93287c6e994ee3cf82fc88b35f5509ed474f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\31eeb98c7f54007882f05bd5f6a6d0a14ab5a978\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_975704257acec1424720cf735d3a5f9eeaa5ba4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\e2e4981340ccb28d54d06282d016a70b728d5a25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_3d02d1c021378525d63a4a07aca738e84acb0da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\82483bb9f21f3edac71b1afa577fa22a90338902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_14787ed98df6326b110cbdc7531bf151d6c5644d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\35f2e2d98b6d665a25110683083f52d766c1187f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_3145fd68917632d7d7dbb6545ece1e83080cc75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\c44a28ff2adfc4f60b10268fd643d90bd899686a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_eaf4d136847997887740268551beab4338d809da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\7abc4948c4d66cc8547ee9cfe16fa07d286acf69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_cb2f49bf7d8eff144ab485a40a0f4088a4278dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\361e46a6b87195cd2a72b2bf1bb617539ca936f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_1d060e48652a347cd4de0656ad423f10bd91add1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\245a8fbf69df16a9a90708014762a92bf3ee0d9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_4f991387361eb954c56700e7a9e9850bc4fbe012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\68b52b6813f4c29496321cd50b3c91271592ddd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_d8aaedb464f6f1ed71c873d575276be608b47278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\2642f31a3e6ba531639c3b9f4ceaa5f536a91150\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_e24b0162a622477bda37140b135a1f658487de0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\dcfa236c990e08b29001f27876f5bc9a6980ed30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\AndroidHive\MenuNavigation\app\build\intermediates\pre-dexed\debug\classes_6d20ae200a9067e1594aa99a96f21c4c83bdb172.jar" />
+    </item>
+
+</items>
